@@ -26,7 +26,7 @@ botao.style.cssText = 'width: 100%';
 let cor = document.querySelector('body');
 cor.style.backgroundColor = '#fafafa';
 
-//04
+
 
 
 
